@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+}
+
+h3{
+    font-size: 40px;
+
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+}
